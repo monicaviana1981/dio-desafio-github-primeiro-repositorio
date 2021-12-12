@@ -1,2 +1,4 @@
 
 Comandos utilizados no Git
+para enviar essa pasta para o gitHub, foi preciso  colocar o token  do GitHub  após o comando  "git push  origin main"
+após esse comando, utilizei outro " git remote -v"  só assim consegui enviar.
